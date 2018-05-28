@@ -1,0 +1,29 @@
+<html>
+<!--Sample Work Table-->
+<head>
+<title> Worked in Febuary. </title>
+<head>
+
+<table border = "1">
+<caption>Work Table </caption>
+<thead>
+</thead>
+<th>First two week period</th>
+<th>Second two week period</th>
+<tr>
+<td>Febuary 1st to 15th </td>
+<td>Febuary 16th to 28th </td>
+</tr>
+<tr>
+<td>Hours worked:60</td>
+<td>Hours worked:90</td>
+</tr>
+<tr>
+<td>No overtime</td>
+<td>10 hours overtime</td>
+</tr>
+</table>
+<p><a href = "http://www.mhcdocumentexpress.com/images/ddprcheck.jpg">My_PayStub</a>&nbsp;</p>
+<p><a href = "http://www.mhcdocumentexpress.com">Sample Work Website</a>&nbsp;&nbsp;</p>
+<!--Work table for employers who need inserted tables within the interface-->
+</html>
